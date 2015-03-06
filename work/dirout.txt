@@ -1,0 +1,25 @@
+ Volume in drive E is Local Disk
+ Volume Serial Number is ACBE-237B
+
+ Directory of E:\College\ECL\Ryan'sCode\work
+
+18-02-2015  13:36    <DIR>          .
+18-02-2015  13:36    <DIR>          ..
+09-02-2015  11:44             8,916 addLines.jar
+09-02-2015  11:44            10,273 avgFile.jar
+18-02-2015  13:37                 6 avgout.txt
+18-02-2015  13:36                 6 avgout1.txt
+09-02-2015  11:44               147 batch1.xml
+09-02-2015  11:44               303 batch2.xml
+09-02-2015  11:44               341 batch3.xml
+09-02-2015  11:44               318 batch4.xml
+09-02-2015  11:43               342 batch5.broken.xml
+18-02-2015  13:58                 0 dirout.txt
+18-02-2015  13:58                 0 error.txt
+09-02-2015  11:44               704 numberdata.txt
+09-02-2015  11:44             1,128 randomwords.txt
+18-02-2015  13:34             1,130 reversesort.txt
+18-02-2015  13:34             1,130 sortedwords.txt
+18-02-2015  13:36               132 sumout.txt
+              16 File(s)         24,876 bytes
+               2 Dir(s)  80,920,363,008 bytes free
